@@ -1,2 +1,3 @@
 dev.txt
 dev.txt was changed
+dev.txt second changed 
